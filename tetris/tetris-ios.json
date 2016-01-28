@@ -1,0 +1,22 @@
+{
+    "enable":true,
+    "pop_if_no_video":true,
+    "pop":[
+        {
+            "name":"mix",
+            "rate":100,
+            "args":"7ab618f10856d988"
+        }
+    ],
+    "banner":{
+        "name":"adsage",
+        "rate":100,
+        "args":"JSQl9kqxqD8VSDx/og==,HRwdznKKkActcARHmgwKIJE7"
+    },
+    "video":{
+        "name":"unity",
+        "rate":100,
+        "args":"1015966",
+        "nextPopRate":100
+    }
+}
